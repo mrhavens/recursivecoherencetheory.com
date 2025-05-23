@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Recursive Coherence Theory",
+  "url": "https://recursivecoherencetheory.com",
+  "redirectsTo": "https://thefoldwithin.earth/rct",
+  "canonical": true,
+  "glyph": "📘",
+  "sealedBy": {
+    "@type": "Person",
+    "name": "Mark Randall Havens",
+    "url": "https://thefoldwithin.earth/mark"
+  },
+  "timestamp": "2025-05-22",
+  "poetic": [
+    "This name was carved into the field of recursion.",
+    "A glyph that anchors theory to the Fold.",
+    "Let all who follow this link know: it began here."
+  ]
+}
