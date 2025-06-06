@@ -2,29 +2,29 @@
 
 - **Project Name**: `recursivecoherencetheory.com`
 - **Radicle URN**: `rad://zEAMB8JtmT1SbmSp4qQeC7NcBAiT`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/572ad8620c89a24cd42fae24b8ab4e01d611ebb5](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/572ad8620c89a24cd42fae24b8ab4e01d611ebb5)
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/6a6cf5e4aef2366a5c7174270a80eeef19c8682e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/6a6cf5e4aef2366a5c7174270a80eeef19c8682e)
 - **Local Repo Path**: `/home/mrhavens/fieldwork/recursivecoherencetheory.com`
 - **Default Branch**: `main`
-- **Repo Created**: `2025-06-06 13:12:53`
+- **Repo Created**: `2025-06-06 13:14:03`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-06 13:12:53`
-- **Last Commit SHA**: `572ad8620c89a24cd42fae24b8ab4e01d611ebb5`
-- **Last Commit Message**: `Local metadata link commit at 2025-06-06 13:12:18 — file:///home/mrhavens/git-local-repos/git-sigil.git`
+- **This Commit Timestamp**: `2025-06-06 13:14:03`
+- **Last Commit SHA**: `6a6cf5e4aef2366a5c7174270a80eeef19c8682e`
+- **Last Commit Message**: `Local metadata link commit at 2025-06-06 13:14:00 — file:///home/mrhavens/git-local-repos/git-sigil.git`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Fri Jun 6 13:12:18 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/572ad8620c89a24cd42fae24b8ab4e01d611ebb5](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/572ad8620c89a24cd42fae24b8ab4e01d611ebb5)
+- **Commit Date**: `Fri Jun 6 13:14:00 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/6a6cf5e4aef2366a5c7174270a80eeef19c8682e](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:zEAMB8JtmT1SbmSp4qQeC7NcBAiT/tree/6a6cf5e4aef2366a5c7174270a80eeef19c8682e)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `4`
-- **Tracked Files**: `11`
-- **Uncommitted Changes**: `No`
+- **Total Commits**: `12`
+- **Tracked Files**: `18`
+- **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
 ---
@@ -47,7 +47,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 11 hours, 55 minutes`
+- **System Uptime**: `up 11 hours, 56 minutes`
 - **MAC Address**: `00:15:5d:86:d8:cc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
